@@ -1,0 +1,21 @@
+{
+  "source": "fallback locale",
+  "note": "Dati usati se la API non funziona.",
+  "items": [
+    {
+      "title": "Lisbona",
+      "body": "Città scelta per un viaggio. Min 17°C, max 24°C, pioggia 20%.",
+      "meta": "dati in locale"
+    },
+    {
+      "title": "Atene",
+      "body": "Città scelta per un viaggio culturale. Min 22°C, max 31°C, pioggia 10%.",
+      "meta": "dati in locale"
+    },
+    {
+      "title": "Nairobi",
+      "body": "Città scelta per vedere la natura. Min 14°C, max 25°C, pioggia 35%.",
+      "meta": "dati in locale"
+    }
+  ]
+}
