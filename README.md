@@ -65,3 +65,9 @@ assets/immagini
 
 Ho scelto una licenza MIT perché è semplice e adatta a un progetto didattico.
 
+## Sito online
+
+Il sito è pubblicato con GitHub Pages:
+
+https://jderia.github.io/Test_10Jun2026_Planner_viaggio_meteo/
+
