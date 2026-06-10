@@ -38,3 +38,11 @@ footer {
   text-align: center;
   font-size: 14px;
 }
+.img-home {
+  width: 100%;
+  max-width: 800px;
+  max-height: 380px;
+  object-fit: contain;
+  display: block;
+  margin-bottom: 20px;
+}

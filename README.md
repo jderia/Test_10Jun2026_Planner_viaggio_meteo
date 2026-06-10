@@ -55,7 +55,11 @@ Test_10Jun2026_Planner_viaggio_meteo/
 
 ## Immagini
 
-Nella cartella assets/immagini ci sono le immagini usate nella pagina consigli.html.
+Nel progetto ho usato alcune immagini nella pagina Home e nella pagina Consigli.
+
+Le immagini sono salvate nella cartella:
+
+assets/immagini
 
 ## Licenza
 
