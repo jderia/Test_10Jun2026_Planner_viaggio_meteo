@@ -106,10 +106,10 @@ async function loadOpenMeteoCurrent() {
 }
 
 async function loadOpenMeteoDaily() {
-  const destinations = [
-  { name: "Lisbona", latitude: 38.7223, longitude: -9.1393, advice: "Città scelta per un viaggio." },
-  { name: "Atene", latitude: 37.9838, longitude: 23.7275, advice: "Città scelta per un viaggio culturale." },
-  { name: "Nairobi", latitude: -1.2921, longitude: 36.8219, advice: "Città scelta per vedere la natura." }
+ const destinations = [
+  { name: "Lisbona", latitude: 38.7223, longitude: -9.1393, advice: "Ideale per un viaggio tra mare, quartieri storici e buon cibo." },
+  { name: "Atene", latitude: 37.9838, longitude: 23.7275, advice: "Adatta a chi vuole visitare monumenti, musei e luoghi storici." },
+  { name: "Nairobi", latitude: -1.2921, longitude: 36.8219, advice: "Interessante per chi vuole fare un viaggio nella natura." }
 ];
   const items = [];
   for (const place of destinations) {
